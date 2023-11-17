@@ -1,4 +1,4 @@
-package jak.controller;
+package jakU;
 
 public class Runner 
 {
@@ -6,7 +6,6 @@ public class Runner
 	{
 		Controller app = new Controller();
 		app.start();
-				
 	}
 
 }

@@ -1,4 +1,4 @@
-package jak.controller;
+package jakU;
 
 public class Controller 
 {
